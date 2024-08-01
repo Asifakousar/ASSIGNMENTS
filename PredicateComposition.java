@@ -14,4 +14,4 @@ public class PredicateComposition {
 
         System.out.println("Filtered strings: " + filteredStrings);
     }
-}AreaConsume
+}
